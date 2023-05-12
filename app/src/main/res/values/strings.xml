@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UTS_BotNav&amp;RecView</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="char_desc">Deskripsi Karakter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //nama char
+    <string name="Alamanda">Alamanda</string>
+    <string name="Anggrek">Anggrek</string>
+    <string name="Kamboja">Kamboja</string>
+    <string name="KembangSepatu">Kembang Sepatu</string>
+    <string name="Lily">Lily</string>
+    <string name="Matahari">Matahari</string>
+    <string name="Mawar">Mawar</string>
+    <string name="Melati">Melati</string>
+    <string name="Rosemary">Rosemary</string>
+    <string name="Tulip">Tulip</string>
+    //desc char
+    <string name="desc_alamanda">Alamanda sering disebut sebagai bunga terompet emas, bunga lonceng kuning, atau bunga buttercup.</string>
+    <string name="desc_anggrek">Anggrek tersebar luas dari daerah tropika basah hingga wilayah sirkumpolar, meskipun sebagian besar anggotanya ditemukan di daerah tropika.</string>
+    <string name="desc_kamboja">Bunganya yang harumnya sangat khas, dengan mahkota berwarna putih hingga merah keunguan, biasanya lima helai.</string>
+    <string name="desc_kembangsepatu">Bunga besar, berwarna merah dan tidak berbau.</string>
+    <string name="desc_lily"> Bunga lily sering dikaitkan dengan simbol cinta, pengabdian serta kemurnian.</string>
+    <string name="desc_matahari">Bunga tumbuhan ini sangat khas besar, biasanya berwarna kuning terang, dengan kepala bunga yang besar. </string>
+    <string name="desc_mawar">Mawar atau ros adalah tumbuhan perdu, pohonnya berduri, bunganya berbau wangi dan berwarna indah.</string>
+    <string name="desc_melati">Melati merupakan tanaman bunga hias berupa perdu berbatang tegak yang hidup menahun.</string>
+    <string name="desc_rosemary">Rosemary bisa mengatasi permasalahan lambung dan usus. Tanaman herbal ini bahkan diklaim mampu mengatasi penyakit pencernaan, seperti kram usus dan sembelit.</string>
+    <string name="desc_tulip">Tulip memiliki makna kesucian, bunga tulip putih ini juga melambangkan rasa simpati atau permintaan maaf, pengampunan, dan penyesalan. </string>
+    //profile
+    <string name="nadya">Nama : Nadya Delfitri</string>
+    <string name="desc_nadya">NIM : 2010031806023 Intragram: @nadeel26 E-Mail : nadiadelfitri@gmail.com No Hp : 085374429508</string>
+</resources>
+
